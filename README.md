@@ -2,7 +2,7 @@ Data Exploration
 
 The Iris Dataset contains 150 instances of iris flowers, evenly distributed - 50 setosa, 50 viginica, and 50 versicolor. As I created the visualizations, I saw that there could be a possible correlation between the lengths of the petal, width of the petal, and species. I saw that the setosa species tended to have small petals, while the versicolor species was in between, and instances of the viginica species were prone to having the largest petals out of the three species. The same applied with the sepal lengths and sepal lengths. However, the average sepal width of the setosa species was the greatest. 
 
-You can check out the Power BI report here:(https://github.com/julie-jeon/InteractIris/blob/main/InteractIris.pdf)
+[You can check out the Power BI report here]:(https://github.com/julie-jeon/InteractIris/blob/main/InteractIris.pdf)
 
 My Experience
 
